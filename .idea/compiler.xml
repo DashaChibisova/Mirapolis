@@ -9,5 +9,8 @@
         <module name="Mirapolis" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Mirapolis" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
