@@ -1,0 +1,9 @@
+mirapolis\ru\po\MainPage.class
+mirapolis\ru\tests\BaseClass.class
+mirapolis\ru\tests\Data.class
+mirapolis\ru\tests\RemindPasswordTest.class
+mirapolis\ru\po\PageBase.class
+mirapolis\ru\tests\LoginWithInvalidDataTest.class
+mirapolis\ru\po\RemindPasswordPage.class
+mirapolis\ru\tests\LoginTest.class
+mirapolis\ru\po\CustomLoginPage.class
